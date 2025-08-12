@@ -1,13 +1,11 @@
 ## Bem vindo ao meu perfil GitHub :smile:
 
-![Snake animation](https://github.com/seu-usuário-aqui/ClarissseSantos/blob/output/github-contribution-grid-snake.svg)
-
 - :information_desk_person: Olá, me chamo Clarisse
 - 🔭 Atualmente estou trabalhando como auxiliar administrativa
 - 🌱 Atualmente estou aprendendo Análise de Dados
 - 🎓 Análise e Desenvolvimento de Sistemas
-- 💞️  Estou começando a minha jornada Dev e todos os meus estudos na programação
-- ⚡ Fun fact: ...
+- 💞️ Estou começando a minha jornada Dev e todos os meus estudos na programação
+- ⚡ No tempo livre, gosto de ler livros e maratonar séries.
 -->
 
 ## Estou aprendendo
@@ -22,6 +20,9 @@
 <div>
 <a href="https://github.com/seu-usuário-aqui">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClarissseSantos&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ClarissseSantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
+  
+<!--<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ClarissseSantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>-->
+  
+##
+  ![Snake animation](https://github.com/camilafernanda/camilafernanda/blob/output/github-contribution-grid-snake.svg)
