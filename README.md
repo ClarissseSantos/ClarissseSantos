@@ -17,12 +17,15 @@
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui](https://www.linkedin.com/in/clarisse-santos-281a5a1a3/)" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+## 📊 Estatísticas GitHub
 <div>
-<a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClarissseSantos&layout=compact&langs_count=7&theme=dracula"/>
+<a href="https://github.com/ClarissseSantos">
   
-<!--<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ClarissseSantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>-->
-  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClarissseSantos&layout=compact&theme=jolly)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClarissseSantos&show_icons=true&theme=jolly)
+
+</div>
+
 ##
   ![Snake animation](https://github.com/camilafernanda/camilafernanda/blob/output/github-contribution-grid-snake.svg)
