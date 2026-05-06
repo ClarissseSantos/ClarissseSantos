@@ -26,6 +26,3 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClarissseSantos&show_icons=true&theme=jolly)
 
 </div>
-
-##
-  ![Snake animation](https://github.com/camilafernanda/camilafernanda/blob/output/github-contribution-grid-snake.svg)
